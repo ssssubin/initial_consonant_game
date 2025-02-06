@@ -1,0 +1,7 @@
+# 빌드/디버그 관련 파일 제외
+Debug/
+.vs/
+*.pdb
+*.pch
+*.ipch
+*.Debug
